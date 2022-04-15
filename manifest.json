@@ -1,0 +1,12 @@
+{
+    "name": "TWCE",
+    "version": "1.0.0",
+    "description": "Trust Wallet Chrome Extension",
+    "manifest_version": 3,
+    "author": "Krati Jain, Shivam Nagar",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "TWCE"
+    }
+}
+
